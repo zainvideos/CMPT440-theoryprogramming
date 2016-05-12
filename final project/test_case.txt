@@ -1,0 +1,10 @@
+<lol>
+print (derp);
+print (derpity)
+</lol>
+
+<mathz>
+addition = plus
+0 + 5 = 5
+</mathz>
+
